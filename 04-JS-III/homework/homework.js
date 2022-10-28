@@ -280,7 +280,7 @@ function breakStatement(numero) {
       nuevoArray.push(suma);
       }
       return nuevoArray;
-        
+         
 
 
 }
